@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wpalik.github.io/HrQ/sitemap.HrQ.gz
